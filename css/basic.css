@@ -1,15 +1,33 @@
+body{
+	background: #B3B3B3;
+	margin: 3%;
+}
 h1{
 	color:#F00000;
 	font-family: "Comic Sans MS";
 	text-align: center;
-	background: #A1A1A1;
-		
+	background: #D3D3D3;
+
 }
 
 a{
-	color:#F00DFD
+	color:#FD0D0D;
 	font-family: Arial,"Times New Roman";
 }
 h2{
 	color: #0FF100;
+	background: #0F0F0F;
+
+}
+section{
+	display: inline-block;
+	width: 25%;
+	margin-right: 2%;
+	float: left;
+}
+footer{
+	clear: both;
+}
+img{
+	width: 120px;
 }
