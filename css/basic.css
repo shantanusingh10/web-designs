@@ -17,16 +17,21 @@ h1{
 
 }
 
-a{
+nav a{
 	color:#FD0D0D;
+	background-color: rgba(255,255,255,0.4);
 	font-family: Arial,"Times New Roman";
 	font-size: 20px;
-	background: white;
-	-webkit-border-radius: 15%;
+	padding: 1% 2% 1% 2%;
+	-webkit-border-radius: 10%;
+	text-decoration: none;
+}
+a:hover{
+	background-color: rgba(44,212,26,0.4);
 }
 h2{
 	color: #0FF100;
-	background: #0F0F0F;
+	background-color: #0F0F0F;
 
 }
 
