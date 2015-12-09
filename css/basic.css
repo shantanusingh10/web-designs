@@ -25,14 +25,19 @@ nav a{
 	padding: 1% 2% 1% 2%;
 	-webkit-border-radius: 10%;
 	text-decoration: none;
+
+}
+aside{
+	margin-bottom: 1%;
 }
 a:hover{
 	background-color: rgba(44,212,26,0.4);
 }
 h2{
-	color: #0FF100;
-	background-color: #0F0F0F;
-
+	color: #F1EB00;
+	background-color: #2DA035;
+	font-family: "Trebuchet MS",Helvetica;
+	text-align: center;
 }
 
 section {
@@ -52,6 +57,7 @@ section {
 	margin-right: 2%;
 	float: left;
 }
+
 .last{
 	clear: both;
 	width: 95%
