@@ -11,13 +11,13 @@ body{
 }
 h1{
 	color:#F00000;
-	font-family: "Comic Sans MS";
+	font-family: "Comic Sans MS",arial;
 	text-align: center;
 	/*background: #D3D3D3;*/
 
 }
 
-nav a:last-child{
+nav a:last-child, a:nth-child(4){
 	color:#FD0D0D;
 	background-color: rgba(255,255,255,0.4);
 	font-family: Arial,"Times New Roman";
@@ -36,7 +36,7 @@ nav a{
 aside{
 	margin-bottom: 1%;
 }
-a:last-child:hover{
+a:last-child:hover, a:nth-child(4):hover{
 	background-color: rgba(44,212,26,0.4);
 }
 h2{

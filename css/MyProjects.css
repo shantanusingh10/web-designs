@@ -1,0 +1,22 @@
+body {
+    background-color: #74AFAD;
+    background-image: url('../images/bgBlue.jpg');
+    background-repeat: no-repeat;
+}
+header{
+	text-align: center;
+	color: #ff3200;
+	font-family: "Comic Sans MS",helvetica,arial;	
+}
+a.scroll{
+	color:#FD0D0D;
+	background-color: rgba(255,255,255,0.4);
+	font-family: Arial,"Times New Roman";
+	font-size: 20px;
+	padding: 1% 2% 1% 2%;
+	-webkit-border-radius: 10%;
+	text-decoration: none;
+}
+a.scroll:hover{
+	background-color: rgba(44,212,26,0.4);
+}
