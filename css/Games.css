@@ -1,0 +1,18 @@
+body{
+	background-color: #000DDD;
+	text-align: center;
+}
+a{
+	color:#FD0D0D;
+	background-color: rgba(255,255,255,0.4);
+	font-family: Arial,"Times New Roman";
+	font-size: 20px;
+	padding: 1% 2% 1% 2%;
+	-webkit-border-radius: 10%;
+	text-decoration: none;	
+}
+a:hover{
+	vertical-align: middle;
+	background-color: rgba(44,212,26,0.4);
+
+}
