@@ -11,7 +11,7 @@ function do_game(){
 			finished = check(guess,number);
 	}
 	alert("Congratulations you've won the game!!!\n It took you" + numguesses + "guesses to win this game");
-	more = prompt("To play more enter 1. To exit enter 0");
+	more = confirm("Press Ok to play more. Cancel to exit");
 	if(more==0)break;
 
 	}		
