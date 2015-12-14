@@ -1,18 +1,35 @@
 body{
 	background-color: #000DDD;
-	text-align: center;
 }
-a.a{
+aside a{
 	color:#FD0D0D;
 	background-color: rgba(255,255,255,0.4);
 	font-family: Arial,"Times New Roman";
 	font-size: 20px;
 	padding: 1% 2% 1% 2%;
 	-webkit-border-radius: 10%;
-	text-decoration: none;	
+	text-decoration: none;
 }
-a:hover{
+aside a:hover{
 	vertical-align: middle;
 	background-color: rgba(44,212,26,0.4);
 
+}
+aside{
+		text-align: center;	
+}
+h1{
+	text-align: center;
+}
+a.scroll{
+	color:#FD0D0D;
+	background-color: rgba(255,255,255,0.4);
+	font-family: Arial,"Times New Roman";
+	font-size: 20px;
+	padding: 1% 2% 1% 2%;
+	-webkit-border-radius: 10%;
+	text-decoration: none;
+}
+a.scroll:hover{
+	background-color: rgba(44,212,26,0.4);
 }
